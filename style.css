@@ -1,0 +1,38 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(37, 37, 37, 0.6),
+      rgba(37, 37, 37, 0.6)
+    ),
+    url(./background_img/pexels-felix-mittermeier-956999.jpg);
+  width: 100%;
+  height: 100%;
+  /* phai khai bao kich thuoc thi moi hien background-color */
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(37, 37, 37, 0.6),
+      rgba(37, 37, 37, 0.6)
+    ),
+    url(./background_img/pexels-philippe-donn-1169754.jpg);
+  width: 100%;
+  height: 100%;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: linear-gradient(
+      rgba(37, 37, 37, 0.6),
+      rgba(37, 37, 37, 0.6)
+    ),
+    url(./background_img/pexels-pixmike-413195.jpg);
+  width: 100%;
+  height: 100%;
+}
+.carousel-inner {
+  height: 65vh;
+  /* Phai khai bao height thi moi chay slide */
+}
